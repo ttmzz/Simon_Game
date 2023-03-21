@@ -52,7 +52,7 @@ body {
   background-color: grey;
 }
 
-.btn {
+.bts {
   -webkit-border-radius: 21;
   -moz-border-radius: 21;
   border-radius: 21px;
@@ -68,11 +68,11 @@ body {
   text-decoration: none;
 }
 
-.btn:hover {
+.bts:hover {
   background: #0e9e4d;
   text-decoration: none;
 }
 
-.btn:active {
+.bts:active {
   box-shadow: none;
 }
