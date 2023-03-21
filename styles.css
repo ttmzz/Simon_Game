@@ -62,14 +62,14 @@ body {
   font-family: Georgia;
   color: #ffffff;
   font-size: 20px;
-  background: #ff0000;
+  background: #137c24;
   padding: 10px 20px 10px 20px;
-  border: solid #232931 1px;
+  border: solid #6aa6f5 1px;
   text-decoration: none;
 }
 
 .bts:hover {
-  background: #0e9e4d;
+  background: #439e0e;
   text-decoration: none;
 }
 
